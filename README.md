@@ -54,4 +54,4 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-gerador de dietas utilizando GeminiAI da Google. 
+Projeto aplicativo gerador de dietas completo desde o backend + IA Gemini da Google e todo Aplicativo com React Native. 
