@@ -11,22 +11,22 @@
 <p align="center">
   <img alt=""  
   src=".github/Home.png"   
-  width="100%">
+  width="50%">
 </p>
 <p align="center">
   <img alt="" 
   src=".github/Step1.png"   
-  width="100%">
+  width="50%">
 </p>
 <p align="center">
   <img alt=""  
   src=".github/Step2.png"   
-  width="100%">
+  width="50%">
 </p>
 <p align="center">
   <img alt=""  
   src=".github/Diet.png"   
-  width="100%">
+  width="50%">
 </p>
 
 ## 🚀 Tecnologias
